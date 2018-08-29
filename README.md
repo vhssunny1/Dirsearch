@@ -10,4 +10,4 @@ OUTPUTFILE
 
 For more help on options - you can simply run docker run --rm vhssunny1/dirsearch  or goto https://github.com/maurosoria/dirsearch
 
-docker image- 
+docker image- docker pull vhssunny1/dirsearch
